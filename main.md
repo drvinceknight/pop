@@ -117,6 +117,8 @@ above principles):
   equilibria at PyDiff in 2016](https://youtu.be/VUcwrSOqIAM) (4:38 minutes)
 - [Henry Wilde presenting a brief overview of the dask library at PyDiff
   2017](https://youtu.be/uipkK07-cUk) (7:56 minutes)
+- [Me giving a brief overview of the version control system
+  git](https://www.youtube.com/watch?v=O5wHYU7wk0U&t=64s)(8:20 minutes)
 - [Geraint Palmer presenting how Python can be used to solve a variety of
   applied mathematical problems at PyCon UK 2017](https://youtu.be/CcEURL392-w)
   (25:34 minutes)
