@@ -13,6 +13,6 @@ words = {
     "pdf",
     "queueing",
     "uk",
-        }
+}
 prose_exceptions = {}
 prose_suggestions_to_ignore = {}
