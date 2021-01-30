@@ -112,6 +112,7 @@ wrong.
 Here are some recordings of presentations (note that they do not all follow the
 above principles):
 
+<!--alex ignore uk africa-->
 - [Me giving a lightning talk presenting a library for the computation of Nash
   equilibria at PyDiff in 2016](https://youtu.be/VUcwrSOqIAM) (4:38 minutes)
 - [Henry Wilde presenting a brief overview of the dask library at PyDiff
