@@ -7,7 +7,9 @@
     2. It should be prepared and rehearsed.
 2. If you use visual aids, your **audience** will look at them.
     1. Your visual aids should support your performance and not detract from it.
-    2. Your visual aids can be seen without you.
+    2. If your visual aids make it possible to obtain the information from your
+       performance without you, then perhaps you do not need to do a
+       presentation. A document could be a better format for the information.
 3. Less is more.
     1. Use your presentation to **spark interest**
     2. A shorter presentation is better than a longer one.
